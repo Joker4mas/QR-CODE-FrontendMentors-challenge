@@ -56,17 +56,14 @@ img {
 
 footer {
     background-color: #ada3a3;
-    padding: 2.5em;
-    
-}
-
-.attribution {
+    padding: 1.5em;
     text-align: center;
     margin: 0 auto;
     font-weight: bold;
-    font-size: 25px;
+    font-size: 1em;
     bottom: 1;
 }
+
 
 @media screen and (max-width:375px) {
     #maincontainer {
@@ -104,17 +101,14 @@ footer {
         font-size: 1rem;
     }
 
-    .attribution {
-        text-align: center;
-        margin: 0 auto;
-        font-weight: bold;
-        font-size: 15px;
-    }
 
     footer {
         background-color: #ada3a3;
         padding: 1.2em;
-        
+        text-align: center;
+        margin: 0 auto;
+        font-weight: bold;
+        font-size: 15px;
     }
 
 }
