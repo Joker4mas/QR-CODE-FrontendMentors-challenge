@@ -13,7 +13,7 @@ body {
     background-color: hsl(212, 45%, 89%);
 }
 
-#maincontainer {
+#main{
     display: grid;
     width: 40rem;
     align-items: center;
